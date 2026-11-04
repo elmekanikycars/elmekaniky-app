@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "الميكانيكي الرقمي | Elmekaniky Digital",
+  "short_name": "الميكانيكي الرقمي",
+  "description": "الميكانيكي الرقمي | Elmekaniky Digital - خدمات ومعلومات السيارات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#123456",
+  "icons": [
+    {
+      "src": "https://elmekaniky-eg.blogspot.com/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
